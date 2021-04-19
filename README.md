@@ -8,7 +8,7 @@
 
 ## 📊 My GitHub's Stats
 
-![JavierAlonso's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Javier-Alonso29)]
+![JavierAlonso's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Javier-Alonso29)
 
 ## Yoy can find me 🌎:
 
