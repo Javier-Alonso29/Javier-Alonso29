@@ -2,12 +2,13 @@
 
 📌 I’m a developer from Mexico
 
-## 🛠 technologi
+## 🛠 technology
 
 ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react) ![Webpack](https://img.shields.io/badge/Webpack-000?style=for-the-badge&logo=webpack) 
+
 ## 📊 My GitHub's Stats
 
-![JavierAlonso's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wildchamo&theme=graywhite&show_icons=true)
+![JavierAlonso's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Javier-Alonso29&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Yoy can find me 🌎:
 
