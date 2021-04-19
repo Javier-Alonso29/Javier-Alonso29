@@ -8,8 +8,8 @@
 
 ## 📊 My GitHub's Stats
 
-![JavierAlonso's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Javier-Alonso29&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![JavierAlonso's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Javier-Alonso29)]
 
 ## Yoy can find me 🌎:
 
-[![](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail)](mailto:wildchamo@gmail.com) [![](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/wildchamo) 
+[![](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail)](mailto:kAlonso835@gmail.com) [![](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/JavierAlonsoCal) 
