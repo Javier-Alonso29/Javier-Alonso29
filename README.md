@@ -1,6 +1,6 @@
 ![Header](https://user-images.githubusercontent.com/60083810/115313973-e610ca80-a139-11eb-9603-927c0c9affd4.png)
 
-📌 I’m a developer from Colombia who is mainly interested in web technologies, specially in **frontend development**.
+📌 I’m a developer from Mexico
 
 ## 🛠 My Stack
 
